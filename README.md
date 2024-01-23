@@ -1,7 +1,9 @@
 
 # Gustavo Marques
 
-Olá, me chamo Gustavo e sou graduando de Sistemas de Informação pela Universidade Federal de Sergipe (UFS). Meu primeiro contato com programação foi em 2020 e desde então, tenho me dedicado à esse grande universo da tecnologia.
+##### :pencil2:	Gustavo  Marques, 20 anos.
+##### :man_student:	Graduando em Sistemas de Informação - (UFS)
+##### :earth_americas: Aracaju - Sergipe
 
 
 
